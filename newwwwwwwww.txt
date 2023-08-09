@@ -1,0 +1,140 @@
+A person using a search engine on a tabletImage Credit: rawpixel.com/Freepik
+Readers like you help support MUO. When you make a purchase using links on our site, we may earn an affiliate commission. Read More.
+The number of internet-connected devices and online services is enormous and growing. Fortunately, some search engines provide a detailed overview of the online presence of these devices and services, allowing you to implement measures that protect them and their data from online threats.
+
+These cybersecurity search engines provide information about each device or service, like operating systems, open ports, and IP addresses. Here are 11 search engines that security researchers use to find specific information about exposed IoT devices, security breaches, leaked personal data, and more.
+
+1. ONYPHE
+ONYPHE homepage
+ONYPHE is a search engine that scans the internet to collect open-source and cyber-threat intelligence data for its Cyber Defense Search Engine.
+
+ONYPHE actively scans the internet for connected devices and cross-references the scanned data with information collected from website URLs. It then makes this data accessible via an API and its query language.
+
+Cybersecurity researchers can use ONYPHE to identify and gather information on compromised devices. You can search ONYPHE’s database using categories like IP addresses, domains, geolocation data, and inetnum details.
+
+2. Shodan
+Shodan homepage
+Shodan is a search engine designed to index internet-connected devices and systems. You can perform a search based on various categories, including device name, city, and IP address.
+
+The search engine enables you to locate internet-connected devices like thermostats, routers, surveillance cameras, and SCADA systems used in various industrial processes, including power plants and water treatment facilities. It lets you detect these devices in real time, including users and their location.
+
+Security researchers can use Shodan to help improve online security by performing penetration testing and monitoring device vulnerabilities and network leaks.
+
+3. Censys
+Censys homepage
+Like Shodan, Censys searches for internet-connected devices and gives detailed information about each device, including operating system, IP address, and open ports.
+
+Censys continuously collects data on internet-connected devices and servers, delivering precise information about the devices, including TLS and SSL protocols, and open ports. This information is crucial for monitoring and securing internet-connected devices and services.
+
+It also identifies server versions, routers, OS versions, web application firewalls, unpatched bugs, and other details.
+
+4. PublicWWW
+PublicWWW homepage
+PublicWWW, a powerful resource for digital and affiliate marketing research, can also assist security researchers in identifying sites associated with malware campaigns by querying campaign libraries.
+
+The search engine is a go-to source for users who want to search websites by their source code. You can search for keywords, alphanumeric snippets, or signatures within CSS, HTML, or JS codes.
+
+5. GreyNoise
+GreyNoise homepage
+GreyNoise is a search engine that allows researchers to tell who’s scanning the internet. This enables them to distinguish between targeted and random scanning to strengthen their defense mechanisms.
+
+GreyNoise leverages advanced machine learning algorithms to detect and categorize network activities as either noise or potentially malicious.
+
+You can use the search engine to identify and classify noise-related activities like vulnerability scanning, automated port scanning, and malware distribution. Just input an IP address or keyword, and GreyNoise Visualizer will generate relevant information.
+
+GreyNoise also features an API, allowing seamless integration of its information into existing security apps and infrastructure.
+
+6. Hunter
+Hunter homepage
+Hunter is a user-friendly search engine that enables users to easily find and verify email addresses associated with a particular individual, domain, or company.
+
+For instance, upon entering the name of an organization, you’ll see a list of verified emails linked to that domain, including their activity status and the source from which they were obtained. It will also display users’ full names, positions, and social media handles.
+
+7. BinaryEdge
+BinaryEdge homepage
+BinaryEdge is a machine-learning-based security search engine designed to collect, analyze, and categorize public internet data to generate real-time threat intelligence streams and reports.
+
+The search engine collects diverse information, including open ports and vulnerable services, vulnerabilities and exposures impacting IPs, invalid SSL certificates, and accessible remote desktop data. In addition, it supports verifying of email accounts to identify potential data leaks.
+
+8. Have I Been Pwned
+HIBP homepage
+Have I Been Pwned, created by Troy Hunt (a renowned cybersecurity instructor), is a website that lets you input your email address to check if it’s been exposed in a data breach. Type in your username or email address in the search box to see if you’ve been pwned.
+
+The site’s database is populated with a huge collection of compromised data, including billions of email addresses, usernames, passwords, and other personal data cybercriminals have stolen and posted on the internet.
+
+9. Fofa
+Fofa homepage
+FOFA, a search engine designed for mapping the global cyberspace, is a great source of internet assets found on the public network. This makes it an invaluable tool for security researchers to assess and protect their public-facing assets.
+
+By continuously detecting global internet assets, FOFA has amassed over 4 billion assets and 350,000 fingerprint rules. This allows for accurate identification of most software and hardware network assets.
+
+FOFA’s search functionality covers various assets, including cameras, printers, operating systems, and databases. You can also perform searches for IPs, domains, and hosts, among other things.
+
+10. ZoomEye
+ZoomEye homepage
+ZoomEye is a cyberspace search engine that lets users search for and monitor online devices and services. The free-to-use OSINT tool leverages Wmap and Xmap to collect data from open devices and web services, as well as perform fingerprint analysis.
+
+Just enter a keyword, an IP address, or any query, and ZoomEye will generate data, including the total number of hosted websites and discovered devices, information on open ports, and vulnerability reports.
+
+11. WiGLE
+WiGLE homepage
+WiGLE is a website dedicated to collecting Wi-Fi hotspots across the world; it has over one billion wireless networks. The website allows users to register and contribute hotspot data, including MAC address, SSID, GPS coordinates, Wi-Fi security type, and cell tower data.
+
+WiGLE is widely used by security researchers as a source for searching and collecting data on local Wi-Fi hotspots. This enables monitoring of insecure networks and their potential to cause harm.
+
+Search Engines Can Enhance Security Research
+Search engines typically present information in a user-friendly manner, and in today’s digital age, they’re considered crucial tools for individuals of all backgrounds, including security researchers.
+
+Several search engines are specifically designed to assist security researchers and cybersecurity teams by providing them with useful data for their security operations.
+
+The list provided offers a glimpse of the diverse landscape of search engines useful in various cybersecurity activities, including vulnerability assessments, penetration testing, and red/blue team operations.
+
+Subscribe to our newsletter
+Comments
+Share
+Tweet
+Share
+Share
+Share
+Copy
+Email
+Link copied to clipboard
+RELATED TOPICS
+SECURITY
+CYBERSECURITY
+ONLINE SECURITY
+WEB SEARCH
+ABOUT THE AUTHOR
+Denis Manyinsa • Staff Writer For Security
+(115 Articles Published)
+Denis is an environmental science graduate who started freelance writing in 2016, while still working as a loan officer. He mostly writes on topics related to cybersecurity threats, security vulnerabilities, and cloud security best practices. In his spare time, he enjoys reading, watching movies, and listening to music.
+
+POLL
+Does Amazon Prime Day help you save money, or waste it?
+I save money by making a list
+I waste quite a bit of money
+I spend more than I intend, but it’s for holiday gifts
+I don’t shop Prime Day deals
+Vote
+View Results
+Discuss This Poll
+AMAZON PRIME DAY 2023
+ARTIFICIAL INTELLIGENCE
+smart home prime day 1
+The Best Smart Home Deals: Get the Last Prime Day Discounts
+4 hours ago
+Prime Day portable speaker (4) 1
+Best Deals on Portable Bluetooth Speakers: Some Prime Day Discounts Linger On
+5 hours ago
+Prime Day Mini PC (1) 1
+Best Mini PC Deals: Get the Last Prime Day Deals
+6 hours ago
+See More
+TRENDING NOW
+blue shield with threads logo on blue webbed background 1
+Is Threads’ Data Collection as Bad as Is Being Reported?
+meta threads app 1
+How to Deactivate Your Threads Account
+hand holding smartphone with gps location spoofing software 1
+The 7 Best Free Android Apps to Fake Your GPS Location
+Copyright © 2023 www.makeuseof.com
